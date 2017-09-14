@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="permissonsucess">权限申请成功</string>
+    <string name="permissonfailure">权限申请失败</string>
+</resources>
